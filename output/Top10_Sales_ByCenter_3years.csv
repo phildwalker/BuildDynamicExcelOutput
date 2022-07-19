@@ -1,0 +1,342 @@
+Center,rank,TenantName_2021,GrossSales_2021,TenantName_2020,GrossSales_2020,TenantName_2019,GrossSales_2019
+Atlantic City,1,Nike,11279312.74,Polo Ralph Lauren,5791855.37,Coach,10662990.15
+Atlantic City,2,Coach,9246452.51,Nike,5423483.68,Nike,8674947.22
+Atlantic City,3,Polo Ralph Lauren,9045707.01,Coach,5189732.27,Polo Ralph Lauren,7996275.92
+Atlantic City,4,adidas,5738023.21,adidas,4051877.73,Michael Kors,7363250.96
+Atlantic City,5,Ruths Chris Steakhouse,5077892.48,Michael Kors,3917155.99,adidas,6171143.01
+Atlantic City,6,Michael Kors,4928064.94,Old Navy,3130291.59,Applebees,4357449.3
+Atlantic City,7,Victoria's Secret,4925235,Ruths Chris Steakhouse,2888174.16,Old Navy,3766106.65
+Atlantic City,8,Applebees,4609903.65,Puma,2732575.3,Tommy Hilfiger,3716994
+Atlantic City,9,Old Navy,4173030.04,Tommy Hilfiger,2605248.72,H&M,3674967.93
+Atlantic City,10,H&M,3933117.1,Gap,2424968.51,Ruths Chris Steakhouse,2942231.31
+Blowing Rock,1,Columbia Sportswear,2592217.48,American Eagle Outfitters,1723795.26,American Eagle Outfitters,1856855.51
+Blowing Rock,2,Rack Room Shoes,2117245.77,Rack Room Shoes,1617529.49,Rack Room Shoes,1819147.07
+Blowing Rock,3,American Eagle Outfitters,1848998.07,Polo Ralph Lauren,1274232.17,Polo Ralph Lauren,1693515.38
+Blowing Rock,4,Gap,1708642.9,Gap,1234353.23,Bass,1550376.92
+Blowing Rock,5,Polo Ralph Lauren,1699343.2,J. Crew,820103.47,Gap,1340541.03
+Blowing Rock,6,Vera Bradley,1600214.3,Bass,813914.08,Chicos,1299135.8
+Blowing Rock,7,Banana Republic,1240315.77,Carters,807058.28,J. Crew,1144274.27
+Blowing Rock,8,Carters,1126556.95,Hanesbrands,770589.89,Talbots,1141989.79
+Blowing Rock,9,Hanesbrands,979990.62,Banana Republic,753038.78,Banana Republic,1123751.95
+Blowing Rock,10,Talbots,931155.66,Van Heusen,732547.3,Van Heusen,924394.35
+Branson,1,Nike,10303374.89,Nike,6890499.17,Nike,9289154.91
+Branson,2,Under Armour,7617010.36,Under Armour,4669616.78,Under Armour,6069860.19
+Branson,3,Vera Bradley,6672279.34,Vera Bradley,4491004.89,Old Navy,5454872.49
+Branson,4,Old Navy,6625870.31,Old Navy,4471298.23,Coach,4868198.7
+Branson,5,Bath & Body Works,4721288,Bath & Body Works,3743098,Michael Kors,4164354.84
+Branson,6,Michael Kors,4577252.78,adidas,3411718.12,adidas,3902645.39
+Branson,7,Coach,4483317.9,Michael Kors,2785696.89,Polo Ralph Lauren,3401453.23
+Branson,8,Rack Room Shoes,4112557.89,Rack Room Shoes,2745784.77,Rack Room Shoes,3249495.53
+Branson,9,adidas,3999571.3,Polo Ralph Lauren,2686508.14,Disney,3094573.67
+Branson,10,Helzberg Diamond,3812217.99,Coach,2648457.05,Kate Spade,2759202.55
+Bromont,1,NA,NA,NA,NA,Bikini Village,0
+Charleston,1,Nike,9897605.65,Nike,6334259.43,Nike,10341790.62
+Charleston,2,Old Navy,7140259.09,Old Navy,5036223.7,Old Navy,7273033.48
+Charleston,3,Polo Ralph Lauren,6349138.74,Polo Ralph Lauren,4305435.25,Polo Ralph Lauren,5975561.1
+Charleston,4,American Eagle/Aerie,6211712.31,American Eagle/Aerie,4094304.13,Michael Kors,5154142.14
+Charleston,5,Palmetto Moon,4830364.38,Bath & Body Works,3400923,American Eagle/Aerie,5056070.1
+Charleston,6,H&M,4790994.82,Palmetto Moon,3322175.98,H&M,4181065.14
+Charleston,7,Bath & Body Works,4683770,Under Armour,3235151.63,Coach,3804806.91
+Charleston,8,Coach,4530338.28,Michael Kors,3193591.81,Under Armour,3688653.37
+Charleston,9,Under Armour,4296737.26,H&M,3003238.74,Palmetto Moon,3550924.04
+Charleston,10,Michael Kors,3813601.39,adidas,2776803.63,Vans,3446679.73
+Columbus,1,Nike,13470564.3,Nike,9651740.64,Nike,14163207.66
+Columbus,2,Under Armour,9434314.13,Under Armour,6717163.06,Under Armour,7623617.24
+Columbus,3,American Eagle Outfitters,6617971.81,Old Navy,4694061.72,Coach,6040181.91
+Columbus,4,Coach,6404398.17,American Eagle Outfitters,4420515.74,Old Navy,5638379.6
+Columbus,5,Old Navy,6184194.65,North Face,4014641.29,Polo Ralph Lauren,5181508.55
+Columbus,6,Polo Ralph Lauren,5538132.32,Polo Ralph Lauren,3948773.39,North Face,5090079.29
+Columbus,7,Michael Kors,5243644.2,Michael Kors,3860781.16,American Eagle Outfitters,4924137.23
+Columbus,8,Victoria's Secret,4403638,Coach,3526402.69,Michael Kors,4797471.3
+Columbus,9,adidas,4345865.71,Victoria's Secret,3107801,Vera Bradley,4264825.38
+Columbus,10,North Face,4227345.11,Vera Bradley,2993267.86,Columbia Sportswear,3792902.42
+Commerce,1,Nike,11552360.3,Nike,8663880.41,Nike,9164448.12
+Commerce,2,Polo Ralph Lauren,5868221.96,Polo Ralph Lauren,4470268.45,Polo Ralph Lauren,5280507.69
+Commerce,3,Old Navy,4673008.03,Old Navy,3890216.57,Old Navy,4358505.68
+Commerce,4,American Eagle Outfitters,4371878.27,American Eagle Outfitters,3321788.32,American Eagle Outfitters,3775161.38
+Commerce,5,Rack Room Shoes,3839870.96,Rack Room Shoes,3078751.17,H&M,3320113.71
+Commerce,6,Coach,3813231.48,Bath & Body Works,2941886,Rack Room Shoes,3209724.63
+Commerce,7,Under Armour,3690465.53,Under Armour,2899079.02,Under Armour,3077155.1
+Commerce,8,H&M,3591779.53,Levis,2878947.5,Coach,3061421
+Commerce,9,Bath & Body Works,3536340,H&M,2630181.03,Michael Kors,2858755.4
+Commerce,10,Michael Kors,3331435.79,Michael Kors,2560324.63,Bath & Body Works,2481059
+Cookstown,1,Under Armour,7450897.99,Under Armour,6447580.88,Coach,7900587.7
+Cookstown,2,Coach,7029370.26,Coach,4265280.68,Nike,7715523.27
+Cookstown,3,H&M,4057069.7,H&M,4027686.98,Under Armour,7242062.39
+Cookstown,4,Polo Ralph Lauren,3691401.59,Polo Ralph Lauren,3845234.32,Polo Ralph Lauren,5753437.7
+Cookstown,5,Bath & Body Works,3408665,Bath & Body Works,3315914,Tommy Hilfiger,4942615.74
+Cookstown,6,Gap,3124571.78,Tommy Hilfiger,3245597.37,H&M,4876452.55
+Cookstown,7,Tommy Hilfiger,3099285.55,Old Navy,3236937.48,Calvin Klein,3778698.75
+Cookstown,8,adidas,2921973.2,Gap,2819270.96,American Eagle Outfitters,3497558.82
+Cookstown,9,Old Navy,2809882.94,Calvin Klein,2734368.59,Gap,3481368.74
+Cookstown,10,American Eagle Outfitters,2714397.67,adidas,2612756,Banana Republic,3395690.22
+Daytona Beach,1,Nike,10087483.78,Nike,6640639.76,Nike,7593914.11
+Daytona Beach,2,Old Navy,5843646.96,Old Navy,3816348.41,Michael Kors,5010956.01
+Daytona Beach,3,Under Armour,5292533.5,Under Armour,3609925.08,Under Armour,4490584.07
+Daytona Beach,4,American Eagle Outfitters,4393475.81,Michael Kors,3284897.49,Old Navy,4258924.46
+Daytona Beach,5,Columbia Sportswear,4391724,Polo Ralph Lauren,2911005.07,Polo Ralph Lauren,3945505.51
+Daytona Beach,6,Bath & Body Works,4310404,Columbia Sportswear,2842106.39,Columbia Sportswear,3880488.36
+Daytona Beach,7,Michael Kors,4283607.98,Bath & Body Works,2804998,H&M,3167951.35
+Daytona Beach,8,Polo Ralph Lauren,4154925.53,Vera Bradley,2497147.7,Vera Bradley,3063148.33
+Daytona Beach,9,H&M,3913732.64,H&M,2422901.07,American Eagle Outfitters,2713337.88
+Daytona Beach,10,Palmetto Moon,3530690.86,American Eagle Outfitters,2379124.01,Bath & Body Works,2413550
+Deer Park - The Arches,1,Nike,18143729.67,Nike,11301082.05,Nike,15051470.78
+Deer Park - The Arches,2,Coach,10652715.92,Coach,7077837.25,Coach,14200874.44
+Deer Park - The Arches,3,Polo Ralph Lauren,9570531.28,Polo Ralph Lauren,6380586.43,Regal Cinemas,13345855.02
+Deer Park - The Arches,4,American Eagle Outfitters,8713139.24,American Eagle Outfitters,6149241.38,Michael Kors,9321877.12
+Deer Park - The Arches,5,Off 5th Saks Fifth Avenue,8401584.66,Old Navy,5705307.81,Polo Ralph Lauren,8614122.94
+Deer Park - The Arches,6,Old Navy,7375665.17,Michael Kors,5067696.61,Old Navy,7402135.87
+Deer Park - The Arches,7,Michael Kors,7176493.25,Calvin Klein,4517959.57,adidas,7233749.74
+Deer Park - The Arches,8,Gap,6687142.71,Gap,4326780.99,Off 5th Saks Fifth Avenue,7125322.81
+Deer Park - The Arches,9,adidas,6376168.29,Off 5th Saks Fifth Avenue,4283380.4,Millers Ale House,6329624
+Deer Park - The Arches,10,Victoria's Secret,5712567,adidas,4064727.83,Calvin Klein,5870396.41
+Foley,1,TJ Maxx,10467754.33,TJ Maxx,10144879.72,TJ Maxx,11018219.42
+Foley,2,Nike,9271654.01,Nike,6905901.05,Nike,9246702.53
+Foley,3,Under Armour,6132968.83,Polo Ralph Lauren,4666369.11,Polo Ralph Lauren,6465204.94
+Foley,4,Polo Ralph Lauren,6065800.66,Old Navy,4173934.59,Old Navy,5306704.65
+Foley,5,Sand Dollar Lifestyles,4852073.9,Vera Bradley,3647425.52,Under Armour,5231176.2
+Foley,6,Old Navy,4707745.58,Under Armour,3626026.92,Vera Bradley,5159207.4
+Foley,7,Columbia Sportswear,4587336.75,Sand Dollar Lifestyles,3449509.44,American Eagle Outfitters,4214630.88
+Foley,8,Vera Bradley,4526165.37,Michael Kors,3433752.91,Coach,4115727.39
+Foley,9,Michael Kors,4519448.68,Columbia Sportswear,3119739,Michael Kors,4008106.08
+Foley,10,Coach,4480941.74,American Eagle Outfitters,3096909.74,Columbia Sportswear,3868480.52
+Fort Worth,1,Nike,13915110.91,Nike,9020257.52,Nike,10629759.84
+Fort Worth,2,Restoration Hardware,7480762.39,Restoration Hardware,4627955.18,Polo Ralph Lauren,6329122.62
+Fort Worth,3,American Eagle Outfitters,6769980.84,Polo Ralph Lauren,4480643.45,Michael Kors,5572837
+Fort Worth,4,Polo Ralph Lauren,6495095.19,American Eagle Outfitters,4215579.15,Restoration Hardware,5291400
+Fort Worth,5,Michael Kors,5403319.54,Michael Kors,3925657.21,American Eagle Outfitters,4474669.82
+Fort Worth,6,Columbia Sportswear,4731479.31,Bath & Body Works,3297557,Old Navy,4106132.32
+Fort Worth,7,H&M,4494657.08,Old Navy,3185979.79,Columbia Sportswear,4042103.81
+Fort Worth,8,Bath & Body Works,4140141.76,Columbia Sportswear,3014855.56,H&M,3267805.28
+Fort Worth,9,Old Navy,3743103.13,H&M,2646208.57,Bath & Body Works,3021591
+Fort Worth,10,Vans,3451616.62,Vans,2623245.79,Vans,2935005.47
+Foxwoods,1,Coach,7147938.72,Nike,4981788.35,Coach,9034941.4
+Foxwoods,2,Nike,7118294.83,Coach,4868585.4,Nike,6561950.36
+Foxwoods,3,H&M,4206527.58,Old Navy,2760853.67,Michael Kors,5558349.81
+Foxwoods,4,Old Navy,3932388.54,Michael Kors,2668499.93,Old Navy,4590867.09
+Foxwoods,5,Michael Kors,3311026.97,H&M,2264791.93,H&M,4059121.23
+Foxwoods,6,Under Armour,2981255.11,Under Armour,2120234.02,American Eagle Outfitters,2981113.22
+Foxwoods,7,American Eagle Outfitters,2907296.13,American Eagle Outfitters,1899364.25,Under Armour,2948265.19
+Foxwoods,8,Gap,2465841.05,Uggs,1520439.52,Vineyard Vines,2284637.16
+Foxwoods,9,Crocs,2069866.93,Bath & Body Works,1510602,Gap,2242959.75
+Foxwoods,10,Forever 21,2004578.69,Tommy Hilfiger,1508523.42,Kate Spade,2146592.59
+Gonzales,1,Nike,9004143.2,Nike,6697907,Nike,9026068.41
+Gonzales,2,Polo Ralph Lauren,7561019.17,Polo Ralph Lauren,5403014.39,Polo Ralph Lauren,6907585.08
+Gonzales,3,Bath & Body Works,5716129,Old Navy,4697250.09,Old Navy,5932087.74
+Gonzales,4,Old Navy,5603936.64,Bath & Body Works,4497807,Bath & Body Works,3866012
+Gonzales,5,Coach,4142140.48,Under Armour,3173639.39,Under Armour,3630245.05
+Gonzales,6,Under Armour,4073211.85,Michael Kors,2777415.17,Michael Kors,3332954.26
+Gonzales,7,Michael Kors,4012227.39,Coach,2393929.86,Coach,3332533.76
+Gonzales,8,Gap,2967543.72,Gap,2171791.91,VF Outlet,2695082.21
+Gonzales,9,Rack Room Shoes,2810344.48,adidas,2064861.88,Gap,2541588.56
+Gonzales,10,Fragrance Outlet,2757104.45,American Eagle Outfitters,1996017.7,adidas,2440896.03
+Grand Rapids,1,Under Armour,9814698.03,Under Armour,6144678.33,Nike,9895007.55
+Grand Rapids,2,Nike,7685858.82,Nike,5585793.33,Under Armour,7624495.44
+Grand Rapids,3,Old Navy,6613235.08,Old Navy,4674889.89,Old Navy,6096191.5
+Grand Rapids,4,American Eagle Outfitters,5169549.96,American Eagle Outfitters,3240655.69,American Eagle Outfitters,4090960.04
+Grand Rapids,5,Coach,4941184.73,Polo Ralph Lauren,2877153.19,Columbia Sportswear,3928562.43
+Grand Rapids,6,Polo Ralph Lauren,3991859.05,adidas,2824692.74,adidas,3845206.83
+Grand Rapids,7,Columbia Sportswear,3886787.7,Bath & Body Works,2798068,H&M,3832599.2
+Grand Rapids,8,adidas,3787448.49,Columbia Sportswear,2693403.5,Banana Republic,3408293.13
+Grand Rapids,9,H&M,3739965.52,H&M,2607058.68,Polo Ralph Lauren,3363081.18
+Grand Rapids,10,Gap,3249245.24,Michael Kors,2413356.01,Michael Kors,3294887.15
+Hershey,1,Under Armour,10139025.87,Under Armour,6492859.19,Under Armour,8926425.18
+Hershey,2,American Eagle Outfitters,7608127.16,Old Navy,5231550.32,Old Navy,6582142.96
+Hershey,3,Old Navy,7525496.46,American Eagle Outfitters,4938028.41,Polo Ralph Lauren,5544146.33
+Hershey,4,adidas,5057292.32,Bath & Body Works,3919172,American Eagle Outfitters,5430762.67
+Hershey,5,Bath & Body Works,4793021,Polo Ralph Lauren,2779345.03,Coach,3926604.06
+Hershey,6,Polo Ralph Lauren,4727410.65,Vera Bradley,2727458.52,Vera Bradley,3608244.53
+Hershey,7,Coach,4035140.06,Coach,2555747.95,Bath & Body Works,3099678
+Hershey,8,Vera Bradley,3431819.27,Disney,2383633.43,Loft,2988832
+Hershey,9,Disney,3357030.13,Gap,1908359.04,Famous Footwear,2765199.72
+Hershey,10,Gap,2816045.9,adidas,1819335.58,Disney,2721064.05
+Hilton Head,1,Nike,7987567.31,Bath & Body Works,3542253,Nike,6857923.76
+Hilton Head,2,Off 5th Saks Fifth Avenue,5294254.92,Nike,3238193.79,Off 5th Saks Fifth Avenue,5506178.38
+Hilton Head,3,Under Armour,4604054.91,Off 5th Saks Fifth Avenue,3228174.11,Vineyard Vines,4041378.11
+Hilton Head,4,Columbia Sportswear,4491009.62,adidas,3136637.25,Polo Ralph Lauren,3897751.91
+Hilton Head,5,Polo Ralph Lauren,4117999.86,Under Armour,3070822.27,Columbia Sportswear,3871773.95
+Hilton Head,6,Bath & Body Works,4066866,Columbia Sportswear,3030362.63,Under Armour,3566970.25
+Hilton Head,7,Vineyard Vines,3535062.87,Polo Ralph Lauren,2975790.31,adidas,3211521.1
+Hilton Head,8,adidas,3402224.45,Vineyard Vines,2298520.11,American Eagle Outfitters,3051664.39
+Hilton Head,9,Coach,3093718.48,H&M,2139152.66,H&M,2659347.68
+Hilton Head,10,H&M,2995496.28,American Eagle Outfitters,2116124.86,Michael Kors,2501246.61
+Houston,1,Nike,13076232.52,Nike,8618668.96,Nike,10089471.64
+Houston,2,Coach,8043773.35,Michael Kors,5221874.61,Michael Kors,6920086.49
+Houston,3,Michael Kors,7328143.33,Polo Ralph Lauren,4609469.06,Coach,6590076.24
+Houston,4,Polo Ralph Lauren,6239037.72,Coach,4060552.35,Polo Ralph Lauren,6091068
+Houston,5,Old Navy,4898454.08,Bath & Body Works,4031910,Old Navy,4872078.05
+Houston,6,Under Armour,4662913.05,Old Navy,3799246.56,Columbia Sportswear,4635913.6
+Houston,7,Bath & Body Works,4645590,Under Armour,3580540.8,Under Armour,4282886.74
+Houston,8,Columbia Sportswear,4442691.92,Columbia Sportswear,3187865.68,Bath & Body Works,3311737
+Houston,9,Crocs,4108827.68,Crocs,2556640.45,American Eagle Outfitters,3129340.98
+Houston,10,Victoria's Secret,3678594.83,Finish Line,2510227.89,Vans,2746127.75
+Howell,1,Nike,6511880.14,Nike,5907191.39,Nike,9082986.1
+Howell,2,Under Armour,5188747.01,Under Armour,3651277.99,Coach,4694521.3
+Howell,3,Old Navy,4210763.52,Old Navy,3228963.21,Under Armour,4669939.38
+Howell,4,Polo Ralph Lauren,3905864.54,Bath & Body Works,2764736,Old Navy,3561180.24
+Howell,5,Coach,3788983.46,Polo Ralph Lauren,2760721.29,Polo Ralph Lauren,3514059.82
+Howell,6,Bath & Body Works,3633528,Coach,2715231.1,Michael Kors,3333813.12
+Howell,7,Michael Kors,3178604.44,Michael Kors,2597952.44,adidas,3223886.65
+Howell,8,American Eagle Outfitters,2968278.58,American Eagle Outfitters,1993472.93,American Eagle Outfitters,2673466.82
+Howell,9,H&M,2355007.67,H&M,1640832.17,Bath & Body Works,2649379
+Howell,10,Famous Footwear,2326854.16,Famous Footwear,1527319.85,Eddie Bauer,2437214.8
+Lancaster,1,Nike,10977429.42,Nike,6871597.38,Nike,12505437.45
+Lancaster,2,Under Armour,10476981.62,Under Armour,6847751.62,Under Armour,8659112.7
+Lancaster,3,Pottery Barn,9441535.44,American Eagle Outfitters,4586810.7,Polo Ralph Lauren,7364566.33
+Lancaster,4,American Eagle Outfitters,6592250.44,Bath & Body Works,4495556,Coach,5791229.27
+Lancaster,5,Polo Ralph Lauren,6359453.13,Polo Ralph Lauren,4422606.79,North Face,5032625.82
+Lancaster,6,Coach,5992616.5,Old Navy,4062793.59,American Eagle Outfitters,4966510.38
+Lancaster,7,Old Navy,5897070.05,North Face,3763835.37,Michael Kors,4649312.34
+Lancaster,8,Bath & Body Works,5554484,Coach,3443416.99,Old Navy,4631977.42
+Lancaster,9,West Elm Outlets,5341083.26,Gap,3149920.59,Gap,4155046.64
+Lancaster,10,North Face,4847503.21,Michael Kors,3103746.48,Skechers,3588326.54
+Locust Grove,1,Nike,15602171.07,Nike,10139351.87,Nike,12816764.47
+Locust Grove,2,Polo Ralph Lauren,12528841.28,Polo Ralph Lauren,9378428.06,Polo Ralph Lauren,10594534.98
+Locust Grove,3,Coach,10800734.32,Michael Kors,6414076.22,Michael Kors,6896936.33
+Locust Grove,4,Michael Kors,8435662.24,Coach,5754014.04,Coach,6673813.74
+Locust Grove,5,Old Navy,6103059.63,American Eagle Outfitters,4486636.35,Old Navy,5303760.39
+Locust Grove,6,Kay Jewelers,5663994.4,Old Navy,4477858.94,American Eagle Outfitters,4523772
+Locust Grove,7,American Eagle Outfitters,5625421.79,Bath & Body Works,4153690,Under Armour,3565399.94
+Locust Grove,8,Bath & Body Works,5371380.32,Kay Jewelers,3402801.81,Bath & Body Works,3306972
+Locust Grove,9,Levis,4953274.87,Tommy Hilfiger,3314795.81,Rack Room Shoes,3281709.6
+Locust Grove,10,Rack Room Shoes,4614848.15,Levis,3228865.42,Levis,3100831.7
+Mebane,1,Nike,11174801.13,Nike,8088980.01,Nike,10790697.37
+Mebane,2,Polo Ralph Lauren,8738896.66,Polo Ralph Lauren,6131752.7,Polo Ralph Lauren,8534275.05
+Mebane,3,Old Navy,6327640.38,Old Navy,4452123.99,Old Navy,6076432.64
+Mebane,4,Under Armour,6167868.12,Under Armour,4237982.07,Coach,5791710.27
+Mebane,5,Coach,5477532.16,Michael Kors,4084578.36,Michael Kors,5660410.57
+Mebane,6,Michael Kors,5263295.66,Coach,3182071.06,Under Armour,5447839.35
+Mebane,7,Tory Burch,4339368.25,Gap,2862273.25,Off 5th Saks Fifth Avenue,4350769.62
+Mebane,8,Gap,4313012.51,Tory Burch,2813119.59,Columbia Sportswear,4128866.04
+Mebane,9,American Eagle Outfitters,4062767.39,American Eagle Outfitters,2680039.47,American Eagle Outfitters,3978603.51
+Mebane,10,Off 5th Saks Fifth Avenue,4012372.26,Rack Room Shoes,2546373.9,Banana Republic,3785026.59
+Memphis,1,Nike,14037848.5,Nike,9694261.08,Nike,10583962.85
+Memphis,2,Coach,9317215.61,Tommy Hilfiger,5709226,Coach,5410239.96
+Memphis,3,Tommy Hilfiger,7932795.58,Coach,5399806.83,Michael Kors,4472914.92
+Memphis,4,Polo Ralph Lauren,6882623.28,Polo Ralph Lauren,4950253.8,Under Armour,4173914.44
+Memphis,5,Michael Kors,6012015.01,Under Armour,4344756.68,American Eagle Outfitters,3995676.72
+Memphis,6,Under Armour,5698967.74,American Eagle Outfitters,3785952.6,Columbia Sportswear,3676194.6
+Memphis,7,American Eagle Outfitters,5602616.28,Michael Kors,3397996.89,H&M,3371667.75
+Memphis,8,H&M,4764321.84,H&M,3153261.14,Polo Ralph Lauren,3292213.07
+Memphis,9,Pandora,4072514.61,Pandora,2929566.18,Tommy Hilfiger,2796694.07
+Memphis,10,Columbia Sportswear,3906796.95,Columbia Sportswear,2799801.18,Vera Bradley,2638110.31
+Myrtle Beach 17,1,Under Armour,8887808.59,Old Navy,5559101.65,Under Armour,7581647.76
+Myrtle Beach 17,2,Old Navy,8381147.58,Under Armour,4988782.21,Old Navy,7373623.55
+Myrtle Beach 17,3,Coach,6321174.12,Polo Ralph Lauren,4149002.99,Polo Ralph Lauren,5615927.68
+Myrtle Beach 17,4,Vera Bradley,6305450.52,Palmetto Moon,3871228.02,adidas,5425148.79
+Myrtle Beach 17,5,Polo Ralph Lauren,5932991.31,Michael Kors,3710605.35,American Eagle Outfitters,5324893.65
+Myrtle Beach 17,6,Michael Kors,5846594.62,Bath & Body Works,3539823,Vera Bradley,5312397.8
+Myrtle Beach 17,7,Palmetto Moon,5724636.03,North Face,3515144.36,Coach,5162573.2
+Myrtle Beach 17,8,Tory Burch,5710760.39,adidas,3419189,Vineyard Vines,5144863.05
+Myrtle Beach 17,9,Kate Spade,5492509.65,Vera Bradley,3315555.4,Michael Kors,4911119.18
+Myrtle Beach 17,10,American Eagle Outfitters,5146290.45,Coach,3307148.57,North Face,4833636.45
+Myrtle Beach 501,1,Nike,13224875.05,Nike,9680466.13,Nike,13267532.15
+Myrtle Beach 501,2,Coach,5699110.78,Polo Ralph Lauren,5063138.83,Outback Steakhouse,4977537.2
+Myrtle Beach 501,3,Outback Steakhouse,5632428.14,Outback Steakhouse,4235143.76,Coach,4172838.99
+Myrtle Beach 501,4,Polo Ralph Lauren,5505055.6,Under Armour,3170679.74,Under Armour,3998733.29
+Myrtle Beach 501,5,Under Armour,4315808.96,Carolina Pottery,3000714.9,Old Navy,3757936.39
+Myrtle Beach 501,6,Victoria's Secret,4299390,Coach,2950852.85,adidas,3582656.94
+Myrtle Beach 501,7,Old Navy,4295446.28,Old Navy,2930598.15,Columbia Sportswear,3576424.58
+Myrtle Beach 501,8,Crocs,4134492.59,adidas,2702658.9,American Eagle Outfitters,3249450.42
+Myrtle Beach 501,9,adidas,3974710.47,American Eagle Outfitters,2414673.76,Polo Ralph Lauren,2958618.38
+Myrtle Beach 501,10,Carolina Pottery,3392903.18,Columbia Sportswear,2286512.68,Carolina Pottery,2689537.64
+National Harbor,1,Nike,15268697.51,Nike,8893937.32,Nike,12771522.43
+National Harbor,2,Polo Ralph Lauren,12699373.68,Polo Ralph Lauren,7178990.2,Polo Ralph Lauren,11932958.04
+National Harbor,3,H&M,8731313.67,H&M,5062845.42,Coach,9376534.97
+National Harbor,4,Coach,8594682.22,Coach,4604549.19,H&M,8084501.95
+National Harbor,5,Michael Kors,5660039.09,Michael Kors,4312786.12,Michael Kors,7220027.3
+National Harbor,6,Under Armour,5481901.34,adidas,3699438.86,adidas,5304806.53
+National Harbor,7,Old Navy,5334928.91,Old Navy,3364034.89,Old Navy,4915182.48
+National Harbor,8,adidas,5322045.56,Under Armour,3353344.19,Banana Republic,4805170.62
+National Harbor,9,Gap,5035271.1,Gap,3143266.64,Gap,4788741.46
+National Harbor,10,American Eagle/Aerie,4865872.19,American Eagle/Aerie,2793286.46,Under Armour,4676249.91
+Ottawa,1,Under Armour,13265714,Under Armour,9983301.66,Nike,10797922
+Ottawa,2,Marshalls,12174795.83,Nike,7289413.7,Under Armour,10625637
+Ottawa,3,Nike,9332404,Old Navy,6132539.91,Marshalls,7936994.14
+Ottawa,4,Old Navy,6287018,Marshalls,6010735.14,Old Navy,7728815
+Ottawa,5,Coach,4995549.32,American Eagle Outfitters,4589467.49,Coach,7656819
+Ottawa,6,Gap,4847923,Bath & Body Works,4202677,American Eagle Outfitters,5666712.36
+Ottawa,7,Bath & Body Works,4725341,Gap,3697207.1,Polo Ralph Lauren,5530923
+Ottawa,8,American Eagle Outfitters,4303172.56,Coach,3577332.62,Tommy Hilfiger,5450938
+Ottawa,9,Tommy Hilfiger,3942810,Tommy Hilfiger,3556003.24,Michael Kors,5014054
+Ottawa,10,Polo Ralph Lauren,3698246,Polo Ralph Lauren,3292628,Banana Republic,4733406
+Pittsburgh,1,Nike,14590926.5,Nike,9612387.18,Nike,12630013.61
+Pittsburgh,2,American Eagle Outfitters,7462789.22,American Eagle Outfitters,5257867.54,Old Navy,6495657.26
+Pittsburgh,3,Under Armour,6627174.74,Old Navy,4954552.41,Under Armour,5640910.46
+Pittsburgh,4,Old Navy,6611150.93,Under Armour,4805299.85,Michael Kors,4876439.11
+Pittsburgh,5,Michael Kors,4802238.2,Michael Kors,4133667.77,Coach,4826128.76
+Pittsburgh,6,Polo Ralph Lauren,4696788.97,Polo Ralph Lauren,3373313.17,Polo Ralph Lauren,4714706.54
+Pittsburgh,7,Coach,4380868.97,Bath & Body Works,3084164,Columbia Sportswear,4111701.77
+Pittsburgh,8,Columbia Sportswear,3786695.57,Columbia Sportswear,2758357.53,Kate Spade,3057371.98
+Pittsburgh,9,Bath & Body Works,3674557,Coach,2568047.1,adidas,3022227.78
+Pittsburgh,10,Kay Jewelers,3178968.43,adidas,2567429.47,Off 5th Saks Fifth Avenue,2990177.73
+Rehoboth Beach,1,Coach,14944251.26,Coach,9184136.14,Nike,14935096.27
+Rehoboth Beach,2,Under Armour,12273619.24,Under Armour,7023654.63,Coach,12522367.03
+Rehoboth Beach,3,Nike,10384072.11,Old Navy,6726425.05,Under Armour,10073613.1
+Rehoboth Beach,4,Old Navy,9894865.76,Nike,6694654.66,Old Navy,9274585.36
+Rehoboth Beach,5,Tory Burch,7925842.62,Bath & Body Works,4755602,Michael Kors,6623949.33
+Rehoboth Beach,6,Michael Kors,6617308.43,Tory Burch,4681453.58,Polo Ralph Lauren,6471209.47
+Rehoboth Beach,7,Polo Ralph Lauren,6525001.52,Polo Ralph Lauren,4203345.59,Tory Burch,5796884.35
+Rehoboth Beach,8,American Eagle Outfitters,5986059.82,Michael Kors,4056671.13,American Eagle Outfitters,5701448.38
+Rehoboth Beach,9,Bath & Body Works,5756625.62,American Eagle Outfitters,3821842.26,Vineyard Vines,5242892.8
+Rehoboth Beach,10,J. Crew,5178409.55,North Face,3538251.39,North Face,4935656.77
+Riverhead,1,Nike,17367758.27,Nike,11926624.85,Nike,17969413.44
+Riverhead,2,Pottery Barn,10149670.03,Pottery Barn,6787534.52,Coach,10011172.14
+Riverhead,3,Polo Ralph Lauren,9576491.13,Off 5th Saks Fifth Avenue,6045875.26,Pottery Barn,9606553.56
+Riverhead,4,Off 5th Saks Fifth Avenue,9515821.91,Polo Ralph Lauren,5909819.96,Off 5th Saks Fifth Avenue,9450573.94
+Riverhead,5,Coach,6716973.1,West Elm Outlets,4699737.93,Michael Kors,9242517.42
+Riverhead,6,American Eagle Outfitters,6534323.03,American Eagle Outfitters,4674840.59,Polo Ralph Lauren,8798065.68
+Riverhead,7,West Elm Outlets,6516030.48,Michael Kors,4649840.31,Victoria's Secret,7600676
+Riverhead,8,H&M,6223847.66,Old Navy,4618756.39,American Eagle Outfitters,6357509.17
+Riverhead,9,Old Navy,5982408.02,H&M,4480333.61,H&M,5861406.97
+Riverhead,10,Michael Kors,5902333.01,Victoria's Secret,4363604,Old Navy,5852511.49
+San Marcos,1,Old Navy,9607325.89,Old Navy,6618187.02,Old Navy,9705555.22
+San Marcos,2,adidas,9603048.37,adidas,5710290.11,adidas,9373785.06
+San Marcos,3,American Eagle Outfitters,8379168.19,American Eagle Outfitters,4994025.28,American Eagle Outfitters,8306344.14
+San Marcos,4,H&M,7543216.44,H&M,4688709.42,H&M,6377686.62
+San Marcos,5,Vans,6104261.04,Vans,4176149.77,Vans,6072108.48
+San Marcos,6,Hollister,5592975.83,Hollister,3571282.43,Levis,5161739.25
+San Marcos,7,West Elm Outlets,5419657.17,Levis,3091621.62,Hollister,4907883.18
+San Marcos,8,Levis,5187185.43,Express Factory,2815387.15,Express Factory,4400050.2
+San Marcos,9,Crocs,5029347.83,West Elm Outlets,2765957.22,Tommy Hilfiger,3684237
+San Marcos,10,Skechers,4418971.19,Crocs,2500104.26,West Elm Outlets,3488487.84
+Savannah,1,Nike,10079738.86,Nike,6558796.51,Nike,8277298.44
+Savannah,2,Polo Ralph Lauren,7865520.88,Polo Ralph Lauren,5644277.78,Polo Ralph Lauren,6743179.75
+Savannah,3,Palmetto Moon,6642927.75,Palmetto Moon,4546903.3,Old Navy,6367791.44
+Savannah,4,Old Navy,6604634.14,Old Navy,4300570.72,Michael Kors,4895643.33
+Savannah,5,Coach,5388221.04,Michael Kors,3966321.31,Palmetto Moon,4503933.08
+Savannah,6,Michael Kors,5310178.7,Bath & Body Works,3440122,American Eagle Outfitters,4062925.53
+Savannah,7,Bath & Body Works,4880489,Under Armour,3168265.61,Coach,3860804.58
+Savannah,8,Under Armour,4558495.34,Coach,2972589.28,H&M,3499854.91
+Savannah,9,H&M,4261325.42,H&M,2875563.86,Under Armour,3300407.04
+Savannah,10,American Eagle Outfitters,4178813.79,American Eagle Outfitters,2873668.55,Tommy Hilfiger,3142512.26
+Sevierville,1,Nike,17678155.31,Nike,13608318.43,Nike,16486823.15
+Sevierville,2,Old Navy,13266028.64,Old Navy,10103230.25,Old Navy,13444460.02
+Sevierville,3,Under Armour,12880653.33,Under Armour,9205920.57,Under Armour,11807548.59
+Sevierville,4,Vera Bradley,12738825.99,Vera Bradley,9159696.92,Coach,8231209.85
+Sevierville,5,Columbia Sportswear,12394607,Columbia Sportswear,8052423.07,Michael Kors,7635624.06
+Sevierville,6,Coach,10074033.45,Michael Kors,6328574.36,American Eagle Outfitters,6966650.07
+Sevierville,7,Polo Ralph Lauren,7214426.1,Coach,5974578.24,Polo Ralph Lauren,6743681.46
+Sevierville,8,Pink by Victoria's Secret,7123703,Bath & Body Works,5885786,Vera Bradley,6590862.31
+Sevierville,9,American Eagle Outfitters,7018987.47,Polo Ralph Lauren,5350478.35,North Face,5558787.01
+Sevierville,10,Michael Kors,6865952.72,American Eagle Outfitters,5082185.96,Pink by Victoria's Secret,5404288
+Tilton,1,Old Navy,4639883.16,Nike,4477659.25,Nike,5257539.82
+Tilton,2,Coach,3457558.69,Old Navy,3861847.76,Old Navy,4257978.69
+Tilton,3,Famous Footwear,3296443.6,Under Armour,2441610.79,Coach,3876787.55
+Tilton,4,Under Armour,3156692.34,American Eagle Outfitters,2330225.46,Famous Footwear,2771964.56
+Tilton,5,American Eagle Outfitters,3036016.39,Gap,2132895.02,American Eagle Outfitters,2724976.75
+Tilton,6,Five Guys Burgers & Fries,1770090.15,Coach,2106881.4,Under Armour,2408382.66
+Tilton,7,Gap,1768467.06,Famous Footwear,2082947.47,Loft,1886433.99
+Tilton,8,Polo Ralph Lauren,1683317.09,Bath & Body Works,2053630,Polo Ralph Lauren,1814839.46
+Tilton,9,Kay Jewelers,1642501.49,Five Guys Burgers & Fries,1576860.55,Eddie Bauer,1766332.46
+Tilton,10,Eddie Bauer,1572946.55,Polo Ralph Lauren,1261552,Bass,1648274.54
+Westgate Outlet,1,Nike,15702683.68,Nike,9575486.13,Nike,13858474.73
+Westgate Outlet,2,Coach,10194423.22,Michael Kors,6003732.79,Michael Kors,7949027.43
+Westgate Outlet,3,Michael Kors,8617944.88,H&M,5659455.12,Coach,7381104.66
+Westgate Outlet,4,H&M,8467958.44,Coach,5413171.43,H&M,7203029.75
+Westgate Outlet,5,Polo Ralph Lauren,6894502.18,Polo Ralph Lauren,4677738.67,Polo Ralph Lauren,5928284.25
+Westgate Outlet,6,Guess?,6473051.65,Under Armour,4153970.46,Lululemon Athletica,5405558.22
+Westgate Outlet,7,Levis,5704756.21,Lululemon Athletica,3934700.64,American Eagle Outfitters,5223603.75
+Westgate Outlet,8,Under Armour,5459884.88,Guess?,3793992.88,Guess?,4915685.36
+Westgate Outlet,9,American Eagle Outfitters,5448897.8,American Eagle Outfitters,3757616.65,Old Navy,4652579.64
+Westgate Outlet,10,Old Navy,5437188.88,Finish Line,3629437.19,Under Armour,4557616.19
